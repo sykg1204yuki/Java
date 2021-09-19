@@ -1,5 +1,6 @@
-public static Ready01 {
+public class Java_exercise {
   public static void main(String[] args){
-    System.outprintln("Hello World!")
+    System.out.println("Hello World!");
+    System.out.println("Hello Java");
   }
 }
