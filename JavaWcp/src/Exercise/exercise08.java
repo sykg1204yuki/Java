@@ -23,7 +23,7 @@ public class exercise08 {
 		int number;
 		for (number = 1; number <= 100; number++) {
 			if ((number%3 == 0) && (number%5 == 0)){
-				System.out.println(number +":FizzBuzz");
+				System.out.println(number + ":FizzBuzz");
 			}else if (number%3 == 0) {
 				System.out.println(number + ":Fizz");
 			}else if (number%5 == 0) {
